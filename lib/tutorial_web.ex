@@ -101,6 +101,7 @@ defmodule TutorialWeb do
 
       import TutorialWeb.ErrorHelpers
       import TutorialWeb.Gettext
+      import TutorialWeb.CoreComponents
       alias TutorialWeb.Router.Helpers, as: Routes
     end
   end
